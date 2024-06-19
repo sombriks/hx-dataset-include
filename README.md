@@ -1,5 +1,8 @@
 # [hx-dataset-include][repo]
 
+[![npm](https://img.shields.io/npm/v/hx-dataset-include?style=plastic)](https://www.npmjs.com/package/hx-dataset-include)
+[![MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Brutally simple [htmx extension][hx-ext] to make data-* html attributes
 participate in the requests
 
