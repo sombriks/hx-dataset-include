@@ -1,6 +1,6 @@
 {
   "name": "hx-dataset-include",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Brutally simple htmx extension to make data-* html attributes participate in the requests",
   "main": "lib/hx-dataset-include.js",
   "repository": {
