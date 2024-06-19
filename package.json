@@ -3,6 +3,10 @@
   "version": "0.0.4",
   "description": "Brutally simple htmx extension to make data-* html attributes participate in the requests",
   "main": "lib/hx-dataset-include.js",
+  "repository": {
+    "url": "https://github.com/sombriks/hx-dataset-include",
+    "type": "git"
+  },
   "directories": {
     "lib": "lib"
   },
