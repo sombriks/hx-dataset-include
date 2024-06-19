@@ -5,6 +5,9 @@ on:
   push:
     tags:
       - '*'
+permissions:
+  id-token: write
+  contents: read
 env:
   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 jobs:
