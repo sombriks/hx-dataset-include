@@ -1,0 +1,17 @@
+{
+  "name": "hx-dataset-include",
+  "version": "0.0.1",
+  "description": "Brutally simple htmx extension to make data-* html attributes participate in the requests",
+  "main": "lib/hx-dataset-include.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo 'based / same thing!'"
+  },
+  "keywords": [
+    "htmx.org htmx-ext"
+  ],
+  "author": "Leonardo Silveira <sombriks@gmail.com>",
+  "license": "MIT"
+}
